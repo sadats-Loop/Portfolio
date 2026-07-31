@@ -109,7 +109,7 @@ export default function Home() {
             via-[#00bf8f]
             to-[#1cd8d2]
             opacity-20
-            blur-[180px]
+            blur-[100px]
             animate-pulse
           "
         />
@@ -128,7 +128,7 @@ export default function Home() {
             via-blue-500
             to-purple-500
             opacity-20
-            blur-[180px]
+            blur-[100px]
             animate-pulse
           "
         />
@@ -500,7 +500,7 @@ export default function Home() {
                 from-cyan-400
                 via-blue-500
                 to-purple-600
-                blur-[110px]
+                blur-[80px]
                 opacity-60
               "
             />
@@ -554,7 +554,7 @@ export default function Home() {
 
             {/* Floating Image */}
             <motion.img
-              src="/images/avator.png"
+              src="/images/avator.webp"
               alt="Sadat Shafin"
               animate={{
                 y: [0, -18, 0],
