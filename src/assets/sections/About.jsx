@@ -55,7 +55,7 @@ export default function About() {
             "
           >
             <img
-              src="../../../public/images/sadatshafin.PNG"
+              src="/images/sadatshafin.PNG"
               alt="Sadat Shafin"
               className="absolute inset-0 w-full h-full object-cover"
             />
